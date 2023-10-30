@@ -1,0 +1,318 @@
+[
+{
+"input_cate_name" : "의자",
+"input_cate_id" : "10210000",
+"output_cate_name" : "테이블/식탁/책상",
+"output_cate_id" : "10150000",
+"confidence" : "36.8"
+},
+{
+"input_cate_name" : "테이블/식탁/책상",
+"input_cate_id" : "10150000",
+"output_cate_name" : "의자",
+"output_cate_id" : "10210000",
+"confidence" : "31.1"
+},
+{
+"input_cate_name" : "청소용품",
+"input_cate_id" : "12040000",
+"output_cate_name" : "욕실용품",
+"output_cate_id" : "12010000",
+"confidence" : "30.2"
+},
+{
+"input_cate_name" : "욕실용품",
+"input_cate_id" : "12010000",
+"output_cate_name" : "청소용품",
+"output_cate_id" : "12040000",
+"confidence" : "16.6"
+},
+{
+"input_cate_name" : "화장대/테이블정리",
+"input_cate_id" : "13080000",
+"output_cate_name" : "욕실용품",
+"output_cate_id" : "12010000",
+"confidence" : "21.9"
+},
+{
+"input_cate_name" : "욕실용품",
+"input_cate_id" : "12010000",
+"output_cate_name" : "화장대/테이블정리",
+"output_cate_id" : "13080000",
+"confidence" : "11.9"
+},
+{
+"input_cate_name" : "욕실용품",
+"input_cate_id" : "12010000",
+"output_cate_name" : "후크/수납걸이",
+"output_cate_id" : "13090000",
+"confidence" : "8.2"
+},
+{
+"input_cate_name" : "수납/정리-후크/수납걸이",
+"input_cate_id" : "13090000",
+"output_cate_name" : "욕실용품",
+"output_cate_id" : "12010000",
+"confidence" : "38.2"
+},
+{
+"input_cate_name" : "욕실용품",
+"input_cate_id" : "12010000",
+"output_cate_name" : "주방수납/정리",
+"output_cate_id" : "16260000",
+"confidence" : "17.9"
+},
+{
+"input_cate_name" : "주방수납/정리",
+"input_cate_id" : "16260000",
+"output_cate_name" : "욕실용품",
+"output_cate_id" : "12010000",
+"confidence" : "27.8"
+},
+{
+"input_cate_name" : "욕실용품",
+"input_cate_id" : "12010000",
+"output_cate_name" : "주방잡화",
+"output_cate_id" : "16290000",
+"confidence" : "14.6"
+},
+{
+"input_cate_name" : "주방잡화",
+"input_cate_id" : "16290000",
+"output_cate_name" : "욕실용품",
+"output_cate_id" : "12010000",
+"confidence" : "25.2"
+},
+{
+"input_cate_name" : "청소용품",
+"input_cate_id" : "12040000",
+"output_cate_name" : "빨래바구니/햄퍼",
+"output_cate_id" : "13100000",
+"confidence" : "13.6"
+},
+{
+"input_cate_name" : "빨래바구니/햄퍼",
+"input_cate_id" : "13100000",
+"output_cate_name" : "청소용품",
+"output_cate_id" : "12040000",
+"confidence" : "34.4"
+},
+{
+"input_cate_name" : "청소용품",
+"input_cate_id" : "12040000",
+"output_cate_name" : "주방수납/정리",
+"output_cate_id" : "16260000",
+"confidence" : "18.5"
+},
+{
+"input_cate_name" : "주방수납/정리",
+"input_cate_id" : "16260000",
+"output_cate_name" : "청소용품",
+"output_cate_id" : "12040000",
+"confidence" : "15.8"
+},
+{
+"input_cate_name" : "청소용품",
+"input_cate_id" : "12040000",
+"output_cate_name" : "주방잡화",
+"output_cate_id" : "16290000",
+"confidence" : "13.4"
+},
+{
+"input_cate_name" : "주방잡화",
+"input_cate_id" : "16290000",
+"output_cate_name" : "청소용품",
+"output_cate_id" : "12040000",
+"confidence" : "12.6"
+},
+수납/정리-리빙박스/바구니
+{
+"input_cate_name" : "리빙박스/바구니",
+"input_cate_id" : "13140000",
+"output_cate_name" : "화장대/테이블정리",
+"output_cate_id" : "13080000",
+"confidence" : "19.8"
+},
+{
+"input_cate_name" : "화장대/테이블정리",
+"input_cate_id" : "13080000",
+"output_cate_name" : "주방수납/정리",
+"output_cate_id" : "16260000",
+"confidence" : "17.1"
+},
+{
+"input_cate_name" : "주방수납/정리",
+"input_cate_id" : "16260000",
+"output_cate_name" : "화장대/테이블정리",
+"output_cate_id" : "13080000",
+"confidence" : "14.5"
+},
+{
+"input_cate_name" : "화장대/테이블정리",
+"input_cate_id" : "13080000",
+"output_cate_name" : "주방잡화",
+"output_cate_id" : "16290000",
+"confidence" : "14.8"
+},
+{
+"input_cate_name" : "주방잡화",
+"input_cate_id" : "16290000",
+"output_cate_name" : "화장대/테이블정리",
+"output_cate_id" : "13080000",
+"confidence" : "13.8"
+},
+{
+"input_cate_name" : "수저/커트러리",
+"input_cate_id" : "16250000",
+"output_cate_name" : "그릇/식기",
+"output_cate_id" : "16220000",
+"confidence" : "25."
+},
+{
+"input_cate_name" : "그릇/식기",
+"input_cate_id" : "16220000",
+"output_cate_name" : "수저/커트러리",
+"output_cate_id" : "16250000",
+"confidence" : "23.5"
+},
+{
+"input_cate_name" : "그릇/식기",
+"input_cate_id" : "16220000",
+"output_cate_name" : "컵/잔/텀블러",
+"output_cate_id" : "16240000",
+"confidence" : "24.3"
+},
+{
+"input_cate_name" : "컵/잔/텀블러",
+"input_cate_id" : "16240000",
+"output_cate_name" : "그릇/식기",
+"output_cate_id" : "16220000",
+"confidence" : "29.9"
+},
+{
+"input_cate_name" : "보관/용기/도시락",
+"input_cate_id" : "16280000",
+"output_cate_name" : "주방수납/정리",
+"output_cate_id" : "16260000",
+"confidence" : "28.3"
+},
+{
+"input_cate_name" : "주방수납/정리",
+"input_cate_id" : "16260000",
+"output_cate_name" : "보관/용기/도시락",
+"output_cate_id" : "16280000",
+"confidence" : "13.8"
+},
+{
+"input_cate_name" : "보관/용기/도시락",
+"input_cate_id" : "16280000",
+"output_cate_name" : "주방잡화",
+"output_cate_id" : "16290000",
+"confidence" : "24.1"
+},
+{
+"input_cate_name" : "주방잡화",
+"input_cate_id" : "16290000",
+"output_cate_name" : "보관/용기/도시락",
+"output_cate_id" : "16280000",
+"confidence" : "13."
+},
+{
+"input_cate_name" : "수저/커트러리",
+"input_cate_id" : "16250000",
+"output_cate_name" : "주방잡화",
+"output_cate_id" : "16290000",
+"confidence" : "22.2"
+},
+{
+"input_cate_name" : "주방잡화",
+"input_cate_id" : "16290000",
+"output_cate_name" : "수저/커트러리",
+"output_cate_id" : "16250000",
+"confidence" : "12.7"
+},
+{
+"input_cate_name" : "조리도구",
+"input_cate_id" : "16300000",
+"output_cate_name" : "주방잡화",
+"output_cate_id" : "16290000",
+"confidence" : "29.3"
+},
+{
+"input_cate_name" : "주방잡화",
+"input_cate_id" : "16290000",
+"output_cate_name" : "조리도구",
+"output_cate_id" : "16300000",
+"confidence" : "13."
+},
+{
+"input_cate_name" : "주방수납/정리",
+"input_cate_id" : "16260000",
+"output_cate_name" : "주방잡화",
+"output_cate_id" : "16290000",
+"confidence" : "23.5"
+},
+{
+"input_cate_name" : "주방잡화",
+"input_cate_id" : "16290000",
+"output_cate_name" : "주방수납/정리",
+"output_cate_id" : "16260000",
+"confidence" : "26.1"
+},
+{
+"input_cate_name" : "매트리스커버",
+"input_cate_id" : "18150000",
+"output_cate_name" : "베개/베개커버",
+"output_cate_id" : "18130000",
+"confidence" : "26.1"
+},
+{
+"input_cate_name" : "베개/베개커버",
+"input_cate_id" : "18130000",
+"output_cate_name" : "매트리스커버",
+"output_cate_id" : "18150000",
+"confidence" : "21.2"
+},
+{
+"input_cate_name" : "이불/이불솜",
+"input_cate_id" : "18120000",
+"output_cate_name" : "매트리스커버",
+"output_cate_id" : "18150000",
+"confidence" : "22.6"
+},
+{
+"input_cate_name" : "매트리스커버",
+"input_cate_id" : "18150000",
+"output_cate_name" : "이불/이불솜",
+"output_cate_id" : "18120000",
+"confidence" : "47.3"
+},
+{
+"input_cate_name" : "이불/이불솜",
+"input_cate_id" : "18120000",
+"output_cate_name" : "베개/베개커버",
+"output_cate_id" : "18130000",
+"confidence" : "27.5"
+},
+{
+"input_cate_name" : "베개/베개커버",
+"input_cate_id" : "18130000",
+"output_cate_name" : "이불/이불솜",
+"output_cate_id" : "18120000",
+"confidence" : "46.7"
+},
+{
+"input_cate_name" : "토퍼/패드",
+"input_cate_id" : "18140000",
+"output_cate_name" : "이불/이불솜",
+"output_cate_id" : "18120000",
+"confidence" : "45.8"
+},
+{
+"input_cate_name" : "이불/이불솜",
+"input_cate_id" : "18120000",
+"output_cate_name" : "토퍼/패드",
+"output_cate_id" : "18140000",
+"confidence" : "17.6"
+}
+]
